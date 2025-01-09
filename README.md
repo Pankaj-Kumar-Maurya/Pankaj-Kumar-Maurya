@@ -8,14 +8,9 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Pankaj Kumar Maurya</h1>
+<h1 align="center">Pankaj Kumar Maurya</h1>
 
-<p align="center">
-  <a href="https://github.com/pankaj-kumar-maurya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pankaj-kumar-maurya&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pankaj's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj-kumar-maurya&layout=compact&langs_count=7&theme=radical" alt="Pankaj's Top Languages"/>
-  </a>
-</p>
+
 
 ---
 
@@ -44,16 +39,6 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
-
-### 🎯 My Interests:
-- Software Development
-- Web Development
-- Game Development
-- .NET Framework & C#
-
----
 
 <p align="center">
   <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47tbltrdq86m33bc2v1rp7q22fywilk7eapjatlmyz&rid=giphy.gif&ct=g" alt="Coding Animation" width="400" height="300">
