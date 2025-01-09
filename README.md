@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47tbltrdq86m33bc2v1rp7q22fywilk7eapjatlmyz&rid=giphy.gif&ct=g" alt="Coding Animation" width="400" height="300">
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47tbltrdq86m33bc2v1rp7q22fywilk7eapjatlmyz&rid=giphy.gif&ct=g" alt="Coding Animation" width="500" height="300">
 </p>
